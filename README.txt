@@ -1,4 +1,5 @@
 Simon Game:
+This was created during my Full Stack Web Development Bootcamp ran by App Brewery through Udemy.
 
 - This version stores your previous inputs and plays the next color you will add to your existing set of button presses.
 
